@@ -8,7 +8,7 @@ Status - Unfinished.... Beacuse of the Google Maps JavaScript API, I've to add y
 
 Future Plan- At future if the problem resolved, I surely start over again. Just need the "Google Maps JavaScript API"
 
-Inspired By - https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=754s   (37:10)
+Inspired By - https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=754s        (37:10)
 
 
 Hope you will understand my situation...
